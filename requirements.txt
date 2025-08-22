@@ -1,0 +1,18 @@
+# L2M Enhancement Optimizer Requirements
+# Python 3.7+ required
+
+# No external dependencies required!
+# This tool uses only Python standard library:
+# - json
+# - os
+# - sys
+# - time
+# - random
+# - datetime
+# - collections
+# - statistics
+# - math
+
+# Optional (for future features):
+# colorama==0.4.6  # For colored console output
+# tabulate==0.9.0  # For better table formatting
