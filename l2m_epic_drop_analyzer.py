@@ -136,7 +136,6 @@ class L2MEpicDropAnalyzer:
                         'special': 'Hardest boss'
                     }
                 }
-            }
         }
         
         # Epic drop rate by day (pattern analysis)
